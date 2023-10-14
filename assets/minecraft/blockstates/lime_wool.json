@@ -1,0 +1,15 @@
+{
+  "variants": {
+    "": {
+      "model": "minecraft:block/lime_wool"
+    }
+  },
+  "athena:loader": "athena:block/ctm",
+  "ctm_textures": {
+		"particle": "athena:block/ctm/wool/lime/0",
+    "empty": "athena:block/ctm/wool/lime/1",
+		"vertical": "athena:block/ctm/wool/lime/2",
+    "horizontal": "athena:block/ctm/wool/lime/3",
+    "center": "athena:block/ctm/wool/lime/4"
+  }
+}

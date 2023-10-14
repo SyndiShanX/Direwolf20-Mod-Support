@@ -1,0 +1,15 @@
+{
+  "variants": {
+    "": {
+      "model": "minecraft:block/red_wool"
+    }
+  },
+  "athena:loader": "athena:block/ctm",
+  "ctm_textures": {
+		"particle": "athena:block/ctm/wool/red/0",
+    "empty": "athena:block/ctm/wool/red/1",
+		"vertical": "athena:block/ctm/wool/red/2",
+    "horizontal": "athena:block/ctm/wool/red/3",
+    "center": "athena:block/ctm/wool/red/4"
+  }
+}

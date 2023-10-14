@@ -1,0 +1,15 @@
+{
+  "variants": {
+    "": {
+      "model": "minecraft:block/pink_wool"
+    }
+  },
+  "athena:loader": "athena:block/ctm",
+  "ctm_textures": {
+		"particle": "athena:block/ctm/wool/pink/0",
+    "empty": "athena:block/ctm/wool/pink/1",
+		"vertical": "athena:block/ctm/wool/pink/2",
+    "horizontal": "athena:block/ctm/wool/pink/3",
+    "center": "athena:block/ctm/wool/pink/4"
+  }
+}

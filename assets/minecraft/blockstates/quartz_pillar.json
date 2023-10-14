@@ -1,0 +1,24 @@
+{
+  "variants": {
+    "axis=x": {
+      "model": "minecraft:block/quartz_pillar_horizontal",
+      "x": 90,
+      "y": 90
+    },
+    "axis=y": {
+      "model": "minecraft:block/quartz_pillar"
+    },
+    "axis=z": {
+      "model": "minecraft:block/quartz_pillar_horizontal",
+      "x": 90
+    }
+  },
+  "athena:loader": "athena:pillar",
+  "ctm_textures": {
+		"bottom": "athena:block/ctm/quartz_pillar/0",
+    "center": "athena:block/ctm/quartz_pillar/1",
+		"top": "athena:block/ctm/quartz_pillar/2",
+		"particle": "athena:block/ctm/quartz_pillar/3",
+    "self": "athena:block/ctm/quartz_pillar/3"
+  }
+}

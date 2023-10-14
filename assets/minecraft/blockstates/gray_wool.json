@@ -1,0 +1,15 @@
+{
+  "variants": {
+    "": {
+      "model": "minecraft:block/gray_wool"
+    }
+  },
+  "athena:loader": "athena:block/ctm",
+  "ctm_textures": {
+		"particle": "athena:block/ctm/wool/gray/0",
+    "empty": "athena:block/ctm/wool/gray/1",
+		"vertical": "athena:block/ctm/wool/gray/2",
+    "horizontal": "athena:block/ctm/wool/gray/3",
+    "center": "athena:block/ctm/wool/gray/4"
+  }
+}
