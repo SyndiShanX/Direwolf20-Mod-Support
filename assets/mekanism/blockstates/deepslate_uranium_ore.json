@@ -1,0 +1,18 @@
+{ "multipart": [
+    { "apply": [
+        { "model": "mekanism:block/deepslate_ores/uranium/sides/0" },
+        { "model": "mekanism:block/deepslate_ores/uranium/sides/1" },
+        { "model": "mekanism:block/deepslate_ores/uranium/sides/2" },
+        { "model": "mekanism:block/deepslate_ores/uranium/sides/3" },
+        { "model": "mekanism:block/deepslate_ores/uranium/sides/4" }
+      ]
+    },
+    { "apply": [
+        { "model": "mekanism:block/deepslate_ores/uranium/ends/0" },
+        { "model": "mekanism:block/deepslate_ores/uranium/ends/1" },
+        { "model": "mekanism:block/deepslate_ores/uranium/ends/2" },
+        { "model": "mekanism:block/deepslate_ores/uranium/ends/3" }
+      ]
+    }
+  ]
+}

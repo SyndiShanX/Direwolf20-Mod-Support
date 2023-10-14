@@ -1,0 +1,13 @@
+
+- SyndiShanX contributed onion item, milk, juice, suace, tomato item, honey cookie, gui textures (potentially from other sources such as Stash or Pam's, etc.)
+- Rope item texture is from whoever made additional additions (narwhal?)
+- Conquest Reforged Texture Pack - Farmers Delight support used for Canvas block, raw pasta, textures
+- CCCode 22964 and 23833 for diamond and netherite knives
+- Roostar #3465 starting point for iron and diamon alt knives
+- Cabbage item modified from #17463 byu PtovonNoodle on the stash
+- stuffed potato Narwhal 25823
+- Pam's Harvestcraft support via KuruKuruDaza for Sushi Item texture shape, pie texture shape, pie slices shape, minced meat (potentially sourced via stash and other packs)
+- 17222 Teacup base
+
+Minecraft Replaced Textures
+- Pumpkin Pie (slice texture) used for the actual slice, full pie #9252 referenced for artwork and replaced texture

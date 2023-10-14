@@ -1,0 +1,18 @@
+{ "multipart": [
+    { "apply": [
+        { "model": "mekanism:block/deepslate_ores/osmium/sides/0" },
+        { "model": "mekanism:block/deepslate_ores/osmium/sides/1" },
+        { "model": "mekanism:block/deepslate_ores/osmium/sides/2" },
+        { "model": "mekanism:block/deepslate_ores/osmium/sides/3" },
+        { "model": "mekanism:block/deepslate_ores/osmium/sides/4" }
+      ]
+    },
+    { "apply": [
+        { "model": "mekanism:block/deepslate_ores/osmium/ends/0" },
+        { "model": "mekanism:block/deepslate_ores/osmium/ends/1" },
+        { "model": "mekanism:block/deepslate_ores/osmium/ends/2" },
+        { "model": "mekanism:block/deepslate_ores/osmium/ends/3" }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,5 @@
+{ "parent": "minecraft:block/column_sides",
+  "textures": {
+    "0": "mekanism:block/deepslate_ores/tin/sides/0"
+  }
+}

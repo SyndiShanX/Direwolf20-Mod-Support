@@ -1,0 +1,18 @@
+{ "multipart": [
+    { "apply": [
+        { "model": "mekanism:block/deepslate_ores/fluorite/sides/0" },
+        { "model": "mekanism:block/deepslate_ores/fluorite/sides/1" },
+        { "model": "mekanism:block/deepslate_ores/fluorite/sides/2" },
+        { "model": "mekanism:block/deepslate_ores/fluorite/sides/3" },
+        { "model": "mekanism:block/deepslate_ores/fluorite/sides/4" }
+      ]
+    },
+    { "apply": [
+        { "model": "mekanism:block/deepslate_ores/fluorite/ends/0" },
+        { "model": "mekanism:block/deepslate_ores/fluorite/ends/1" },
+        { "model": "mekanism:block/deepslate_ores/fluorite/ends/2" },
+        { "model": "mekanism:block/deepslate_ores/fluorite/ends/3" }
+      ]
+    }
+  ]
+}

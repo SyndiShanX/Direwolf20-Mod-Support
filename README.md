@@ -1,0 +1,1 @@
+Replace `assets/minecraft/atlases/blocks.json` in the Default [1.20.1 Pack](https://dokucraft.co.uk/resource-packs/light) with [blocks.json](https://raw.githubusercontent.com/SyndiShanX/Direwolf20-Mod-Support/main/blocks.json) to Fix Erroring Textures
