@@ -1,0 +1,18 @@
+{ "multipart": [
+    { "apply": [
+        { "model": "railcraft:block/deepslate_ores/nickel/sides/0" },
+        { "model": "railcraft:block/deepslate_ores/nickel/sides/1" },
+        { "model": "railcraft:block/deepslate_ores/nickel/sides/2" },
+        { "model": "railcraft:block/deepslate_ores/nickel/sides/3" },
+        { "model": "railcraft:block/deepslate_ores/nickel/sides/4" }
+      ]
+    },
+    { "apply": [
+        { "model": "railcraft:block/deepslate_ores/nickel/ends/0" },
+        { "model": "railcraft:block/deepslate_ores/nickel/ends/1" },
+        { "model": "railcraft:block/deepslate_ores/nickel/ends/2" },
+        { "model": "railcraft:block/deepslate_ores/nickel/ends/3" }
+      ]
+    }
+  ]
+}

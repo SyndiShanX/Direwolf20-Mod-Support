@@ -1,0 +1,5 @@
+{ "parent": "minecraft:block/column_sides",
+  "textures": {
+    "0": "railcraft:block/deepslate_ores/sulfur/sides/3"
+  }
+}

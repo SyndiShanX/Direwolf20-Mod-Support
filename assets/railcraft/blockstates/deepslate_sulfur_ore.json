@@ -1,0 +1,18 @@
+{ "multipart": [
+    { "apply": [
+        { "model": "railcraft:block/deepslate_ores/sulfur/sides/0" },
+        { "model": "railcraft:block/deepslate_ores/sulfur/sides/1" },
+        { "model": "railcraft:block/deepslate_ores/sulfur/sides/2" },
+        { "model": "railcraft:block/deepslate_ores/sulfur/sides/3" },
+        { "model": "railcraft:block/deepslate_ores/sulfur/sides/4" }
+      ]
+    },
+    { "apply": [
+        { "model": "railcraft:block/deepslate_ores/sulfur/ends/0" },
+        { "model": "railcraft:block/deepslate_ores/sulfur/ends/1" },
+        { "model": "railcraft:block/deepslate_ores/sulfur/ends/2" },
+        { "model": "railcraft:block/deepslate_ores/sulfur/ends/3" }
+      ]
+    }
+  ]
+}
