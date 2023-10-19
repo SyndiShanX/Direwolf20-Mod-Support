@@ -1,0 +1,7 @@
+{ "variants": {
+    "": [
+      { "model": "aethersteel:block/aetherslate/bricks/cracked/0" },
+      { "model": "aethersteel:block/aetherslate/bricks/cracked/1" }
+    ]
+  }
+}

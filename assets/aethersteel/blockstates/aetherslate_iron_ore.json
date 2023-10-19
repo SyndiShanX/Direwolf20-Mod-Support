@@ -1,0 +1,18 @@
+{ "multipart": [
+    { "apply": [
+        { "model": "aethersteel:block/aetherslate_ores/iron/sides/0" },
+        { "model": "aethersteel:block/aetherslate_ores/iron/sides/1" },
+        { "model": "aethersteel:block/aetherslate_ores/iron/sides/2" },
+        { "model": "aethersteel:block/aetherslate_ores/iron/sides/3" },
+        { "model": "aethersteel:block/aetherslate_ores/iron/sides/4" }
+      ]
+    },
+    { "apply": [
+        { "model": "aethersteel:block/aetherslate_ores/iron/ends/0" },
+        { "model": "aethersteel:block/aetherslate_ores/iron/ends/1" },
+        { "model": "aethersteel:block/aetherslate_ores/iron/ends/2" },
+        { "model": "aethersteel:block/aetherslate_ores/iron/ends/3" }
+      ]
+    }
+  ]
+}

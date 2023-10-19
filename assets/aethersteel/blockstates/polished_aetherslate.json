@@ -1,0 +1,10 @@
+{ "variants": {
+    "": [
+      { "model": "aethersteel:block/aetherslate/polished/0" },
+      { "model": "aethersteel:block/aetherslate/polished/1" },
+      { "model": "aethersteel:block/aetherslate/polished/2" },
+      { "model": "aethersteel:block/aetherslate/polished/3" },
+      { "model": "aethersteel:block/aetherslate/polished/4" }
+    ]
+  }
+}

@@ -1,0 +1,5 @@
+{ "parent": "minecraft:block/column_ends",
+  "textures": {
+    "0": "aethersteel:block/aetherslate_ores/redstone_off/ends/3"
+  }
+}

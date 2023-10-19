@@ -1,0 +1,15 @@
+{ "variants": {
+    "type=bottom": [
+      { "model": "aethersteel:block/aetherslate/bricks/slab/lower/0" },
+      { "model": "aethersteel:block/aetherslate/bricks/slab/lower/1" }
+    ],
+    "type=double": [
+      { "model": "aethersteel:block/aetherslate/bricks/0" },
+      { "model": "aethersteel:block/aetherslate/bricks/1" }
+    ],
+    "type=top": [
+      { "model": "aethersteel:block/aetherslate/bricks/slab/upper/0" },
+      { "model": "aethersteel:block/aetherslate/bricks/slab/upper/1" }
+    ]
+  }
+}

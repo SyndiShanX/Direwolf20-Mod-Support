@@ -1,0 +1,7 @@
+{ "variants": {
+    "": [
+      { "model": "aethersteel:block/aetherslate/cobbled/0" },
+      { "model": "aethersteel:block/aetherslate/cobbled/1" }
+    ]
+  }
+}

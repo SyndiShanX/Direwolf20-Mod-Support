@@ -1,0 +1,18 @@
+{ "multipart": [
+    { "apply": [
+				{ "model": "aethersteel:block/aetherslate_ores/redstone/sides/0" },
+				{ "model": "aethersteel:block/aetherslate_ores/redstone/sides/1" },
+				{ "model": "aethersteel:block/aetherslate_ores/redstone/sides/2" },
+				{ "model": "aethersteel:block/aetherslate_ores/redstone/sides/3" },
+				{ "model": "aethersteel:block/aetherslate_ores/redstone/sides/4" }
+      ]
+    },
+    { "apply": [
+				{ "model": "aethersteel:block/aetherslate_ores/redstone/ends/0" },
+				{ "model": "aethersteel:block/aetherslate_ores/redstone/ends/1" },
+				{ "model": "aethersteel:block/aetherslate_ores/redstone/ends/2" },
+				{ "model": "aethersteel:block/aetherslate_ores/redstone/ends/3" }
+      ]
+    }
+  ]
+}

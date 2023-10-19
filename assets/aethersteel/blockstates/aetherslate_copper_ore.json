@@ -1,0 +1,18 @@
+{ "multipart": [
+    { "apply": [
+        { "model": "aethersteel:block/aetherslate_ores/copper/sides/0" },
+        { "model": "aethersteel:block/aetherslate_ores/copper/sides/1" },
+        { "model": "aethersteel:block/aetherslate_ores/copper/sides/2" },
+        { "model": "aethersteel:block/aetherslate_ores/copper/sides/3" },
+        { "model": "aethersteel:block/aetherslate_ores/copper/sides/4" }
+      ]
+    },
+    { "apply": [
+        { "model": "aethersteel:block/aetherslate_ores/copper/ends/0" },
+        { "model": "aethersteel:block/aetherslate_ores/copper/ends/1" },
+        { "model": "aethersteel:block/aetherslate_ores/copper/ends/2" },
+        { "model": "aethersteel:block/aetherslate_ores/copper/ends/3" }
+      ]
+    }
+  ]
+}

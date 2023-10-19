@@ -1,0 +1,8 @@
+{ "variants": {
+    "": [
+      { "model": "aethersteel:block/aetherslate/tiles/cracked/0", "weight": 8 },
+      { "model": "aethersteel:block/aetherslate/tiles/cracked/1", "weight": 8 },
+      { "model": "aethersteel:block/aetherslate/tiles/cracked/2", "weight": 14 }
+    ]
+  }
+}

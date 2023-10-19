@@ -1,0 +1,54 @@
+{ "multipart": [
+    { "when": { "axis": "x" },
+      "apply": [
+        { "model": "aethersteel:block/aetherslate/sides/0", "x": 90, "y": 90 },
+        { "model": "aethersteel:block/aetherslate/sides/1", "x": 90, "y": 90 },
+        { "model": "aethersteel:block/aetherslate/sides/2", "x": 90, "y": 90 },
+        { "model": "aethersteel:block/aetherslate/sides/3", "x": 90, "y": 90 },
+        { "model": "aethersteel:block/aetherslate/sides/4", "x": 90, "y": 90 }
+      ]
+    },
+    { "when": { "axis": "x" },
+      "apply": [
+        { "model": "aethersteel:block/aetherslate/ends/0", "x": 90, "y": 90 },
+        { "model": "aethersteel:block/aetherslate/ends/1", "x": 90, "y": 90 },
+        { "model": "aethersteel:block/aetherslate/ends/2", "x": 90, "y": 90 },
+        { "model": "aethersteel:block/aetherslate/ends/3", "x": 90, "y": 90 }
+      ]
+    },
+    { "when": { "axis": "y" },
+      "apply": [
+        { "model": "aethersteel:block/aetherslate/sides/0" },
+        { "model": "aethersteel:block/aetherslate/sides/1" },
+        { "model": "aethersteel:block/aetherslate/sides/2" },
+        { "model": "aethersteel:block/aetherslate/sides/3" },
+        { "model": "aethersteel:block/aetherslate/sides/4" }
+      ]
+    },
+    { "when": { "axis": "y" },
+      "apply": [
+        { "model": "aethersteel:block/aetherslate/ends/0" },
+        { "model": "aethersteel:block/aetherslate/ends/1" },
+        { "model": "aethersteel:block/aetherslate/ends/2" },
+        { "model": "aethersteel:block/aetherslate/ends/3" }
+      ]
+    },
+    { "when": { "axis": "z" },
+      "apply": [
+        { "model": "aethersteel:block/aetherslate/sides/0", "x": 90 },
+        { "model": "aethersteel:block/aetherslate/sides/1", "x": 90 },
+        { "model": "aethersteel:block/aetherslate/sides/2", "x": 90 },
+        { "model": "aethersteel:block/aetherslate/sides/3", "x": 90 },
+        { "model": "aethersteel:block/aetherslate/sides/4", "x": 90 }
+      ]
+    },
+    { "when": { "axis": "z" },
+      "apply": [
+        { "model": "aethersteel:block/aetherslate/ends/0", "x": 90 },
+        { "model": "aethersteel:block/aetherslate/ends/1", "x": 90 },
+        { "model": "aethersteel:block/aetherslate/ends/2", "x": 90 },
+        { "model": "aethersteel:block/aetherslate/ends/3", "x": 90 }
+      ]
+    }
+  ]
+}
