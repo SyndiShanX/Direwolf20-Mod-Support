@@ -1,3 +1,3 @@
 # How to Fix Erroring Textures
  1. Replace `assets/minecraft/atlases/blocks.json` in the Default [1.20.1 Pack](https://dokucraft.co.uk/resource-packs/light) with [blocks.json](https://raw.githubusercontent.com/SyndiShanX/Direwolf20-Mod-Support/main/blocks.json)
- 2. Copy the `assets/minecraft/textures/block` and `assets/minecraft/textures/item` folders into the Default [1.20.1 Pack](https://dokucraft.co.uk/resource-packs/light) (Delete the `assets/minecraft/textures/block/ctm` folder as it isn't used)
+ 2. Copy the files from [assets.zip](https://raw.githubusercontent.com/SyndiShanX/Direwolf20-Mod-Support/main/assets.zip) into the Default [1.20.1 Pack](https://dokucraft.co.uk/resource-packs/light)
