@@ -5,15 +5,11 @@
  "textures": {
    "particle": "#all",
    "all": "block/lapis_ore",
-   "dirt_overlay": "block/ctm/dirt/dirt_overlay",
-   "grass_block_overlay": "block/ctm/grass_block/grass_block_overlay"
+   "dirt_overlay": "block/ctm/dirt/dirt_overlay"
  },
  "connections": {
    "dirt_overlay": [
      { "type": "match_block", "block": "dirt" }
-   ],
-   "grass_block_overlay": [
-     { "type": "match_block", "block": "grass_block" }
    ]
  },
  "elements": [
@@ -39,18 +35,6 @@
        "south": { "texture": "#dirt_overlay", "cullface": "south" },
        "west": { "texture": "#dirt_overlay", "cullface": "west" },
        "east": { "texture": "#dirt_overlay", "cullface": "east" }
-     }
-   },
-   {
-     "from": [ 0, 0, 0 ],
-     "to": [ 16, 16, 16 ],
-     "faces": {
-       "down": { "texture": "#grass_block_overlay", "cullface": "down" },
-       "up": { "texture": "#grass_block_overlay", "cullface": "up" },
-       "north": { "texture": "#grass_block_overlay", "cullface": "north" },
-       "south": { "texture": "#grass_block_overlay", "cullface": "south" },
-       "west": { "texture": "#grass_block_overlay", "cullface": "west" },
-       "east": { "texture": "#grass_block_overlay", "cullface": "east" }
      }
    }
  ]

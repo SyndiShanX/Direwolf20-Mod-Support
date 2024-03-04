@@ -9,7 +9,6 @@
    "diorite_overlay": "block/ctm/diorite/diorite_overlay",
    "dirt_overlay": "block/ctm/dirt/dirt_overlay",
    "granite_overlay": "block/ctm/granite/granite_overlay",
-   "grass_block_overlay": "block/ctm/grass_block/grass_block_overlay",
    "gravel_overlay": "block/ctm/gravel/gravel_overlay",
    "stone_overlay": "block/ctm/stone/stone_overlay"
  },
@@ -25,9 +24,6 @@
    ],
    "granite_overlay": [
      { "type": "match_block", "block": "granite" }
-   ],
-   "grass_block_overlay": [
-     { "type": "match_block", "block": "grass_block" }
    ],
    "gravel_overlay": [
      { "type": "match_block", "block": "gravel" }
@@ -95,13 +91,6 @@
        "south": { "texture": "#granite_overlay", "cullface": "south" },
        "west": { "texture": "#granite_overlay", "cullface": "west" },
        "east": { "texture": "#granite_overlay", "cullface": "east" }
-     }
-   },
-   {
-     "from": [ 0, 0, 0 ],
-     "to": [ 16, 16, 16 ],
-     "faces": {
-       "up": { "texture": "#grass_block_overlay", "cullface": "up", "tintindex": 0 }
      }
    },
    {
